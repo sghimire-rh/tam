@@ -1,0 +1,26 @@
+- Summary of Latest OCP Product Lifecycle Updates (Stable channel as of Thursday 4th September 2025)
+	- **OCP 4.19 (Full Support)**
+        - OCP 4.19.10 released on 2nd September 2025 [Release Notes](https://access.redhat.com/errata/RHBA-2025:14823)
+	- **OCP 4.18 (Full Support)**
+        - OCP 4.18.23 released on 3rd September 2025 [Release Notes](https://access.redhat.com/errata/RHSA-2025:14820)
+    - **OCP 4.17 (Maintenance Support)**
+        - OCP 4.17.38 released on 27th August 2025 [Release Notes](https://access.redhat.com/errata/RHSA-2025:14060)
+    - **OCP 4.16 (Maintenance Support)**
+        - OCP 4.16.47 released on 3rd September 2025 [Release Notes](https://access.redhat.com/errata/RHSA-2025:14859)
+    - **OCP 4.15 (End of Life)**
+        - OCP 4.15.57 released on 6th August 2025 [Release Notes](https://access.redhat.com/errata/RHSA-2025:14397)
+    - **OCP 4.14 (Extended Support)**
+        - OCP 4.14.51 released on 21st May 2025 [Release Notes](https://access.redhat.com/errata/RHSA-2025:7698)
+
+Information on Lifecycle can be found: [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
+
+&nbsp;
+
+### What’s new with Red Hat OpenShift Service on AWS
+
+- New changes and updates for ROSA can be found [here](https://docs.redhat.com/en/documentation/red_hat_openshift_service_on_aws/4/html/whats_new/rosa-whats-new)
+
+### What's new with Azure Red Hat OpenShift
+- New changes and updates for ARO can be found [here](https://learn.microsoft.com/en-us/azure/openshift/azure-redhat-openshift-release-notes)
+
+&nbsp;
