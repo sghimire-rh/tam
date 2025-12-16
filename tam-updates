@@ -1,5 +1,5 @@
 #### TAM availability (Sushan out of office)
-    - 22-30 Jan 2026
+- 22-30 Jan 2026
 
 #### Proactive Notifications
 - There is a known issue when upgrading to OpenShift 4.19.12 where the  `rpm-ostree rebase`  command fails with the error "is rejected by policy." This issue will block an upgrade to OpenShift 4.19.12.
