@@ -1,16 +1,16 @@
-- Summary of Latest OCP Product Lifecycle Updates (Stable channel as of Thursday 4th September 2025)
+- Summary of Latest OCP Product Lifecycle Updates (Stable channel as of Thursday 20th November 2025)
+	- **OCP 4.20 (Full Support)**
+        - OCP 4.20.6 released on2nd December 2025 [Release Notes](https://access.redhat.com/errata/RHSA-2025:22257)
 	- **OCP 4.19 (Full Support)**
-        - OCP 4.19.10 released on 2nd September 2025 [Release Notes](https://access.redhat.com/errata/RHBA-2025:14823)
-	- **OCP 4.18 (Full Support)**
-        - OCP 4.18.23 released on 3rd September 2025 [Release Notes](https://access.redhat.com/errata/RHSA-2025:14820)
+        - OCP 4.19.21 released on 10th December 2025 [Release Notes](https://access.redhat.com/errata/RHBA-2025:22786)
+	- **OCP 4.18 (Maintenance Support)**
+        - OCP 4.18.30 released on 11th December 2025 [Release Notes](https://access.redhat.com/errata/RHBA-2025:22696)
     - **OCP 4.17 (Maintenance Support)**
-        - OCP 4.17.38 released on 27th August 2025 [Release Notes](https://access.redhat.com/errata/RHSA-2025:14060)
+        - OCP 4.17.45 released on 3rd December 2025 [Release Notes](https://access.redhat.com/errata/RHBA-2025:22266)
     - **OCP 4.16 (Maintenance Support)**
-        - OCP 4.16.47 released on 3rd September 2025 [Release Notes](https://access.redhat.com/errata/RHSA-2025:14859)
+        - OCP 4.16.54 released on 10th December 2025 [Release Notes](https://access.redhat.com/errata/RHBA-2025:22725)
     - **OCP 4.15 (End of Life)**
-        - OCP 4.15.57 released on 6th August 2025 [Release Notes](https://access.redhat.com/errata/RHSA-2025:14397)
-    - **OCP 4.14 (Extended Support)**
-        - OCP 4.14.51 released on 21st May 2025 [Release Notes](https://access.redhat.com/errata/RHSA-2025:7698)
+        - OCP 4.15.59 released on 6th November 2025 [Release Notes](https://access.redhat.com/errata/RHSA-2025:19306)
 
 Information on Lifecycle can be found: [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
 
@@ -22,5 +22,3 @@ Information on Lifecycle can be found: [Red Hat OpenShift Container Platform Lif
 
 ### What's new with Azure Red Hat OpenShift
 - New changes and updates for ARO can be found [here](https://learn.microsoft.com/en-us/azure/openshift/azure-redhat-openshift-release-notes)
-
-&nbsp;
