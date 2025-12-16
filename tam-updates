@@ -1,8 +1,15 @@
 #### Proactive Notifications
+- There is a known issue when upgrading to OpenShift 4.19.12 where the  `rpm-ostree rebase`  command fails with the error "is rejected by policy." This issue will block an upgrade to OpenShift 4.19.12.
 
-- Summit Connect London 9th October 2025 sign up now open - more info [here](https://www.redhat.com/en/summit/connect/emea/london-2025)
+  For more detailed information, a KCS article has been created, which you can find here:     [1]. Additionally, a bug has been filed to track this issue: [2].
+
+  [1]  [https://access.redhat.com/solutions/7132125](https://access.redhat.com/solutions/7132125)  
+  [2]  [https://issues.redhat.com/browse/OCPBUGS-62510](https://issues.redhat.com/browse/OCPBUGS-62510)
 
 #### What's new in Red Hat Openshift
+- Red Hat Openshift 4.20
+    - Presentation is available on youtube [What's New in Openshift 4.20 - Key Updates and New Features](https://www.youtube.com/watch?v=2VrIfk2QbsU)
+    - Slides can be viewed or downloaded [What's New in OpenShift 4.20](https://speakerdeck.com/redhatlivestreaming/whats-new-in-openshift-4-dot-20)
 - Red Hat Openshift 4.19
     - Presentation is available on youtube [What's New in Openshift 4.19 - Key Updates and New Features](https://www.youtube.com/watch?v=_Hrhmj707ok)
     - Slides can be viewed or downloaded [What's New in OpenShift 4.19](https://speakerdeck.com/redhatlivestreaming/whats-new-in-openshift-4-dot-19)
@@ -19,8 +26,6 @@
     - Slides can be viewed or downloaded [What's New in OpenShift 4.16](https://speakerdeck.com/redhatlivestreaming/whats-new-in-openshift-4-dot-16)
 
 - TAM availability (Andy out of office)
-    - Andy out of the office Monday 17th November - 19th November (Returning Thursday 20th November)
-    - Andy out of the office Monday 8th December - Wednesday 10th December (Returning Thursday 11th December)
     - Christmas 2025 - Andy out of the office from 24th December returning 5th January 2026
 
 - Openshift 4 Lifecycle
@@ -31,5 +36,3 @@
     - Reference guide for Engaging with Red Hat Support is [here](https://access.redhat.com/articles/280093)
     - Just a reminder about raising proactive cases: [https://access.redhat.com/solutions/3521621](https://access.redhat.com/solutions/3521621)
     - Release Comparison Dashboard: [https://openshift-release.apps.ci.l2s4.p1.openshiftapps.com/dashboards/compare](https://openshift-release.apps.ci.l2s4.p1.openshiftapps.com/dashboards/compare)
-
-&nbsp;
