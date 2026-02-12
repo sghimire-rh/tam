@@ -1,12 +1,11 @@
 #### Proactive Notifications
-- There is a known issue when upgrading to OpenShift 4.19.12 where the  `rpm-ostree rebase`  command fails with the error "is rejected by policy." This issue will block an upgrade to OpenShift 4.19.12.
-
-  For more detailed information, a KCS article has been created, which you can find here:     [1]. Additionally, a bug has been filed to track this issue: [2].
-
-  [1]  [https://access.redhat.com/solutions/7132125](https://access.redhat.com/solutions/7132125)  
-  [2]  [https://issues.redhat.com/browse/OCPBUGS-62510](https://issues.redhat.com/browse/OCPBUGS-62510)
+-  OCP version 4.21 released on 10th February 2026
+-  Extended support for 4.16.x will end on 27 June 2026
 
 #### What's new in Red Hat Openshift
+- Red Hat Openshift 4.21
+    - Presentation is available on youtube [What's New in Openshift 4.21 - Key Updates and New Features](https://www.youtube.com/live/Z1LIIxbcrms)
+    - Slides can be viewed or downloaded [What's New in OpenShift 4.21](https://speakerdeck.com/redhatlivestreaming/what-s-new-in-openshift-4-dot-21)
 - Red Hat Openshift 4.20
     - Presentation is available on youtube [What's New in Openshift 4.20 - Key Updates and New Features](https://www.youtube.com/watch?v=2VrIfk2QbsU)
     - Slides can be viewed or downloaded [What's New in OpenShift 4.20](https://speakerdeck.com/redhatlivestreaming/whats-new-in-openshift-4-dot-20)
