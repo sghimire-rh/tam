@@ -1,14 +1,14 @@
 - Summary of Latest OCP Product Lifecycle Updates (Stable channel as of Thursday 12 February 2026)
 	- **OCP 4.21 (Full Support)**
-        - OCP 4.21.1 released on 10th February 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:2130)
+        - OCP 4.21.2 released on 17th February 2026 [Release Notes](https://access.redhat.com/errata/RHBA-2026:2637)
     - **OCP 4.20 (Full Support)**
         - OCP 4.20.14 released on 11th February 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:2119)
 	- **OCP 4.19 (Maintenance Support)**
-        - OCP 4.19.23 released on 4th February 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:1552)
+        - OCP 4.19.24 released on 18th February 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:2651)
 	- **OCP 4.18 (Maintenance Support)**
-        - OCP 4.18.33 released on 11th February 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:2079)
+        - OCP 4.18.33 released on 18th February 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:2079)
     - **OCP 4.17 (Maintenance Support)**
-        - OCP 4.17.45 released on 4th February 2026 [Release Notes](https://access.redhat.com/errata/RHBA-2026:1544)
+        - OCP 4.17.49 released on 18th February 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:2672)
     - **OCP 4.16 (Extended Support)**
         - OCP 4.16.56 released on 30th January 2026 [Release Notes](https://access.redhat.com/errata/RHBA-2026:0993)
 
