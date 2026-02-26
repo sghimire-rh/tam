@@ -1,6 +1,14 @@
 #### Proactive Notifications
--  OCP version 4.21 released on 10th February 2026
--  Extended support for 4.16.x will end on 27 June 2026
+- Potential Impact due to Operator Catalog Misconfiguration
+- Recommendation on installation of subctl & istioctl cli tool
+- OpenShift EUS Term 1 for v4.16 is ending on 27 June 2026, recommend for a plan to upgrade to v4.18
+    - ODF follows the OCP support cycle
+    - Pipeline Operator 1.15 is supported on 4.16 but not on 4.18
+    - v1.21 is the latest, no versions dependency issue since its supported on both 4.16 and 4.18. ClusterTask to Task conversion activity needs to be completed before OCP 4.18 upgrade
+    - Logging version 6.1 is out of support, needs to be upgraded
+    - Logging Operator 6.4 is not supported on 4.16 but it is supported on 4.18 onwards which provides the most cover from support point of view
+- TAM recommendation is upgrade to OCP 4.18 along with upgrade of key operator components
+
 
 #### What's new in Red Hat Openshift
 - Red Hat Openshift 4.21
