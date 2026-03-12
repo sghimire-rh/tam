@@ -9,7 +9,6 @@
     - Logging Operator 6.4 is not supported on 4.16 but it is supported on 4.18 onwards which provides the most cover from support point of view
 - TAM recommendation is upgrade to OCP 4.18 along with upgrade of key operator components
 
-
 #### What's new in Red Hat Openshift
 - Red Hat Openshift 4.21
     - Presentation is available on youtube [What's New in Openshift 4.21 - Key Updates and New Features](https://www.youtube.com/live/Z1LIIxbcrms)
@@ -23,11 +22,9 @@
 - Red Hat OpenShift 4.18
     - Presentation is available on youtube [What's New in Openshift 4.18 - Key Updates and New Features](https://www.youtube.com/watch?v=yqBaxC7bmcc)
     - Slides can be viewed or downloaded [What's New in OpenShift 4.18](https://speakerdeck.com/redhatlivestreaming/whats-new-in-openshift-4-dot-18)
-
 - Red Hat OpenShift 4.17
     - Presentation is available on youtube [What's New in Openshift 4.17 - Key Updates and New Features](https://www.youtube.com/live/DvKHwz-c11c)
     - Slides can be viewed or downloaded [What's New in OpenShift 4.17](https://speakerdeck.com/redhatlivestreaming/whats-new-in-openshift-4-dot-17)
-
 - Red Hat OpenShift 4.16
     - Presentation is available on youtube [What's New in Openshift 4.16 - Key Updates and New Features](https://www.youtube.com/watch?v=1kt8uSBEQHQ)
     - Slides can be viewed or downloaded [What's New in OpenShift 4.16](https://speakerdeck.com/redhatlivestreaming/whats-new-in-openshift-4-dot-16)
@@ -36,6 +33,7 @@
 	- [OCP Upgrade checker](https://access.redhat.com/labs/ocpupgradegraph/update_channel)
 	- [Red Hat OpenShift Container Platform Operator Update Information Checker](https://access.redhat.com/labs/ocpouic)
 	- [OpenShift Operator Life Cycles](https://access.redhat.com/support/policy/updates/openshift_operators)
+
 - Additional items from Red Hat
     - Reference guide for Engaging with Red Hat Support is [here](https://access.redhat.com/articles/280093)
     - Just a reminder about raising proactive cases: [https://access.redhat.com/solutions/3521621](https://access.redhat.com/solutions/3521621)
