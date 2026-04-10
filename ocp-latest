@@ -1,18 +1,16 @@
 - Summary of Latest OCP Product Lifecycle Updates (Stable channel as of Friday 03 April 2026)
-	- **OCP 4.21 (Full Support)**
+	- **OCP 4.21 (Maintenance Support)**
 	- **OCP 4.20 (Full Support)**
 	- **OCP 4.19 (Maintenance Support)**
 	- **OCP 4.18 (Maintenance Support)**
-	- **OCP 4.17 (Maintenance Support)**
 	- **OCP 4.16 (Extended Support)**
 	- **OCP 4.14 (Extended Support)**
-	- **OCP 4.12 (Extended Support)**
 
 Information on Lifecycle can be found: [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
 
 &nbsp;
 
-### What’s new with Red Hat OpenShift Service on AWS (ROSA)
+### What's new with Red Hat OpenShift Service on AWS (ROSA)
 - New changes and updates for ROSA can be found [here](https://docs.redhat.com/en/documentation/red_hat_openshift_service_on_aws/4/html/whats_new/rosa-whats-new)
 
 ### What's new with Azure Red Hat OpenShift (ARO)
