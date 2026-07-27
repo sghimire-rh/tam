@@ -1,14 +1,14 @@
-- Summary of Latest OCP Product Lifecycle Updates (Stable channel as of Friday 17 July 2026)
+- Summary of Latest OCP Product Lifecycle Updates (Stable channel as of Friday 24 July 2026)
 	- **OCP 4.22 (Full Support)**
-	    - OCP 4.22.5 released on 14th July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:37585)
+	    - OCP 4.22.6 released on 21st July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:40768)
 	- **OCP 4.21 (Full Support)**
-	    - OCP 4.21.24 released on 14th July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:37186)
+	    - OCP 4.21.25 released on 21st July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:40792)
 	- **OCP 4.20 (Maintenance Support)**
-	    - OCP 4.20.29 released on 14th July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:37628)
+	    - OCP 4.20.30 released on 21st July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:40795)
 	- **OCP 4.19 (Maintenance Support)**
-	    - OCP 4.19.38 released on 15th July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:37580)
+	    - OCP 4.19.39 released on 22nd July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:40765)
 	- **OCP 4.18 (Maintenance Support)**
-	    - OCP 4.18.48 released on 15th July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:37192)
+	    - OCP 4.18.49 released on 22nd July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:40828)
 	- **OCP 4.16 (Extended Support)**
 	    - OCP 4.16.66 released on 16th July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:36621)
 	- **OCP 4.14 (Extended Support)**
