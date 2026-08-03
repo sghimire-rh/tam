@@ -1,18 +1,18 @@
-- Summary of Latest OCP Product Lifecycle Updates (Stable channel as of Friday 24 July 2026)
+- Summary of Latest OCP Product Lifecycle Updates (Stable channel as of Friday 31 July 2026)
 	- **OCP 4.22 (Full Support)**
-	    - OCP 4.22.6 released on 21st July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:40768)
+	    - OCP 4.22.7 released on 28th July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:44237)
 	- **OCP 4.21 (Full Support)**
-	    - OCP 4.21.25 released on 21st July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:40792)
+	    - OCP 4.21.26 released on 28th July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:44267)
 	- **OCP 4.20 (Maintenance Support)**
-	    - OCP 4.20.30 released on 21st July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:40795)
+	    - OCP 4.20.31 released on 28th July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:44263)
 	- **OCP 4.19 (Maintenance Support)**
-	    - OCP 4.19.39 released on 22nd July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:40765)
+	    - OCP 4.19.40 released on 29th July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:44235)
 	- **OCP 4.18 (Maintenance Support)**
-	    - OCP 4.18.49 released on 22nd July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:40828)
+	    - OCP 4.18.50 released on 29th July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:44233)
 	- **OCP 4.16 (Extended Support)**
-	    - OCP 4.16.66 released on 16th July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:36621)
+	    - OCP 4.16.67 released on 30th July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:43331)
 	- **OCP 4.14 (Extended Support)**
-	    - OCP 4.14.69 released on 16th July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:36611)
+	    - OCP 4.14.70 released on 30th July 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:43253)
 
 Information on Lifecycle can be found: [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
 
