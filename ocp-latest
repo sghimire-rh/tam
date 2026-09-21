@@ -1,18 +1,18 @@
-- Summary of Latest OCP Product Lifecycle Updates (Stable channel as of Friday 11 September 2026)
+- Summary of Latest OCP Product Lifecycle Updates (Stable channel as of Friday 18 September 2026)
 	- **OCP 4.22 (Full Support)**
-	    - OCP 4.22.13 released on 8th September 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:63096)
+	    - OCP 4.22.14 released on 15th September 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:66358)
 	- **OCP 4.21 (Maintenance Support)**
-	    - OCP 4.21.32 released on 8th September 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:63046)
+	    - OCP 4.21.33 released on 15th September 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:66352)
 	- **OCP 4.20 (Maintenance Support)**
-	    - OCP 4.20.37 released on 8th September 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:63103)
+	    - OCP 4.20.38 released on 15th September 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:66377)
 	- **OCP 4.19 (Maintenance Support)**
-	    - OCP 4.19.46 released on 9th September 2026 [Release Notes]
+	    - OCP 4.19.47 released on 16th September 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:66371)
 	- **OCP 4.18 (Extended Support)**
-	    - OCP 4.18.54 released on 26th August 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:57487)
+	    - OCP 4.18.55 released on 17th September 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:65852)
 	- **OCP 4.16 (Extended Support)**
 	    - OCP 4.16.70 released on 10th September 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:62550)
 	- **OCP 4.14 (Extended Support)**
-	    - OCP 4.14.74 released on 24th September 2026 [Release Notes]
+	    - OCP 4.14.73 released on 10th September 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:62410)
 
 Information on Lifecycle can be found: [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
 
