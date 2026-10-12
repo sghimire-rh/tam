@@ -1,18 +1,18 @@
-- Summary of Latest OCP Product Lifecycle Updates (Stable channel as of Friday 02 October 2026)
+- Summary of Latest OCP Product Lifecycle Updates (Stable channel as of Friday 09 October 2026)
 	- **OCP 4.22 (Full Support)**
-	    - OCP 4.22.16 released on 29th September 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:71454)
+	    - OCP 4.22.17 released on 6th October 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:74429)
 	- **OCP 4.21 (Maintenance Support)**
-	    - OCP 4.21.35 released on 29th September 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:71453)
+	    - OCP 4.21.36 released on 6th October 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:74383)
 	- **OCP 4.20 (Maintenance Support)**
-	    - OCP 4.20.40 released on 29th September 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:71450)
+	    - OCP 4.20.41 released on 6th October 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:74380)
 	- **OCP 4.19 (Maintenance Support)**
-	    - OCP 4.19.49 released on 30th September 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:71447)
+	    - OCP 4.19.50 released on 7th October 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:74434)
 	- **OCP 4.18 (Extended Support)**
 	    - OCP 4.18.56 released on 1st October 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:70617)
 	- **OCP 4.16 (Extended Support)**
-	    - OCP 4.16.71 released on 24th September 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:67936)
+	    - OCP 4.16.72 released on 8th October 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:73853)
 	- **OCP 4.14 (Extended Support)**
-	    - OCP 4.14.74 released on 24th September 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:67838)
+	    - OCP 4.14.75 released on 8th October 2026 [Release Notes](https://access.redhat.com/errata/RHSA-2026:73869)
 
 Information on Lifecycle can be found: [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
 
